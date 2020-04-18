@@ -1,2 +1,2 @@
-# Hopfield Network
-Implementation and Analysis of Hopfield Network in Python 
+# Hopfield Networks
+Implementation and Analysis of Hopfield Networks in Python 
