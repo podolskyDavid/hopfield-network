@@ -6,3 +6,6 @@ Hopfield Networks are based on the idea of "associate" (content-addressable) mem
 
 Here I trained and tested Hopfield Networks on handwritten digits and on digits from MNIST (randomly selected subset).
 Different training sets yielded different results.
+
+## Here is a list of "Jupyter nbviewer" links for Jupyter Notebooks in this folder:
+1. Hopfield Network: https://nbviewer.jupyter.org/github/podolskyDavid/hopfield-network/blob/master/Hopfield%20Net.ipynb
